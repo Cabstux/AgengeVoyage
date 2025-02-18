@@ -1,0 +1,82 @@
+﻿@model AppAspGroupe1.Models.Gestionnaire
+
+@{
+    ViewBag.Title = "Créer un Gestionnaire";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Créer un Gestionnaire</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Informations du Gestionnaire</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <!-- Nom -->
+        <div class="form-group">
+            @Html.LabelFor(model => model.NomUtilisateur, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NomUtilisateur, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NomUtilisateur, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!-- Prénom -->
+        <div class="form-group">
+            @Html.LabelFor(model => model.PrenomUtilisateur, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PrenomUtilisateur, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PrenomUtilisateur, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!-- Email -->
+        <div class="form-group">
+            @Html.LabelFor(model => model.EmailUtilisateur, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EmailUtilisateur, new { htmlAttributes = new { @class = "form-control", type = "email" } })
+                @Html.ValidationMessageFor(model => model.EmailUtilisateur, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!-- Téléphone -->
+        <div class="form-group">
+            @Html.LabelFor(model => model.TelUtilisateur, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TelUtilisateur, new { htmlAttributes = new { @class = "form-control", type = "tel" } })
+                @Html.ValidationMessageFor(model => model.TelUtilisateur, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!-- CNI -->
+        <div class="form-group">
+            @Html.LabelFor(model => model.CNIGestionnaire, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CNIGestionnaire, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CNIGestionnaire, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+ 
+        <!-- Bouton de validation -->
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Créer" class="btn btn-primary" />
+                @Html.ActionLink("Annuler", "Index", null, new { @class = "btn btn-secondary" })
+            </div>
+        </div>
+    </div>
+}
+
+<!-- Lien retour -->
+<div>
+    @Html.ActionLink("Retour à la liste", "Index", null, new { @class = "btn btn-link" })
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

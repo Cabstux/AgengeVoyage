@@ -1,0 +1,51 @@
+﻿@model AppAspGroupe1.Models.Utilisateur
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Utilisateur</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomUtilisateur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomUtilisateur)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrenomUtilisateur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrenomUtilisateur)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailUtilisateur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmailUtilisateur)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelUtilisateur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TelUtilisateur)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdUtilisateur }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,171 @@
+﻿@model PagedList.IPagedList<AppAspGroupe1.Models.Employee>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>index</h2>
+@*@using (Html.BeginForm(("Index", "Employee", FormMethod.Get)))
+    {
+        <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 30px;">
+            <div class="form-group" style="margin-bottom: 15px;">
+                @Html.Label("NomUtilisateur", htmlAttributes: new { @class = "control-label col-md-4", style = "color: #2196F3; font-weight: bold;" })
+                <div class="col-md-10">
+                    @Html.TextBox("NomUtilisateur", ViewBag.NomUtilisateur as string, new { @class = "form-control", style = "border: 1px solid #ddd; border-radius: 4px; padding: 8px; width: 100%;" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 15px;">
+                @Html.Label("PrenomUtilisateur", htmlAttributes: new { @class = "control-label col-md-4", style = "color: #2196F3; font-weight: bold;" })
+                <div class="col-md-10">
+                    @Html.TextBox("PrenomUtilisateur", ViewBag.PrenomUtilisateur as string, new { @class = "form-control", style = "border: 1px solid #ddd; border-radius: 4px; padding: 8px; width: 100%;" })
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Rechercher" class="btn btn-primary" style="background-color: #2196F3; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#1e88e5'" onmouseout="this.style.backgroundColor='#2196F3'" />
+                </div>
+            </div>
+        </div>
+    }*@
+@using (Html.BeginForm(("Index", "Employee", FormMethod.Get)))
+            {
+                <div class="row">
+                    <div class="col-md-3">
+                        <input type="text" name="Name" value="@ViewBag.Name" id="Name" class="form-control" placeholder="Nom">
+                    </div>
+                    <div class="col-md-3">
+                        <input type="text" name="State" value="@ViewBag.State" id="State" class="form-control" placeholder="État">
+                    </div>
+                    <div class="col-md-3">
+                        <input type="text" name="Country" value="@ViewBag.Country" id="Country" class="form-control" placeholder="Pays">
+                    </div>
+                    <div class="col-md-3">
+                        <button type="submit" class="btn btn-primary">Rechercher</button>
+                    </div>
+                </div>
+            }
+        
+<div class="container">
+    <h2>Employees Record</h2>
+    <button type="button" class="btn btn-primary" data-toggle="modal" datatarget="#myModal" onclick="clearTextBox();">
+        Add New Employee
+    </button><br /><br />
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Age
+                </th>
+                <th>
+                    State
+                </th>
+                <th>
+                    Country
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody class="tbody"></tbody>
+    </table>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" arialabelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+            <div class="modal-header">
+                @*<button type="button" class="close" data-dissmiss="modal"><span
+                    aria-hidden="true">×</span></button>*@
+                <button type="button" class="close" onclick="Close();" data-dismiss="modal">×</button>
+                <h4 class="modal-title" id="myModalLabel">Add Employee</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="EmployeeId">ID</label>
+                        <input type="text" class="form-control" id="EmployeeID"
+                               placeholder="Id" disabled="disabled" />
+                    </div>
+                    <div class="form-group">
+                        <label for="Name">Name</label>
+                        <input type="text" class="form-control" id="Name"
+                               placeholder="Name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="Age">Age</label>
+                        <input type="text" class="form-control" id="Age"
+                               placeholder="Age" />
+                    </div>
+                    <div class="form-group">
+                        <label for="State">State</label>
+                        <input type="text" class="form-control autocomplete" id="State" placeholder="State" autocomplete="off" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Country">Country</label>
+                        <input type="text" class="form-control autocomplete" id="Country" placeholder="Country" autocomplete="off" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnAdd"
+                        onclick="return Add();">
+                    Add
+                </button>
+                <button type="button" class="btn btn-primary" id="btnUpdate"
+                        style="display:none;" onclick="Update();">
+                    Update
+                </button>
+                <button type="button" class="btn btn-default" data-dismiss="modal" onclick="Close()" ;>Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-center">
+
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, Name = ViewBag.Name, searchState = ViewBag.State, Country = ViewBag.Country }))
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/Jquery")
+    @Scripts.Render("~/bundles/employee")
+
+}
+<script>
+    $(document).ready(function () {
+
+        $.ajax({
+            url: "/Employee/GetStates",
+            type: "GET",
+            dataType: "json",
+            success: function (data) {
+                $("#searchState").autocomplete({
+                    source: data,
+                    minLength: 1
+                });
+            }
+        });
+
+
+        $.ajax({
+            url: "/Employee/GetCountries",
+            type: "GET",
+            dataType: "json",
+            success: function (data) {
+                $("#searchCountry").autocomplete({
+                    source: data,
+                    minLength: 1
+                });
+            }
+        });
+    });

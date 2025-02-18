@@ -1,0 +1,67 @@
+﻿@model AppAspGroupe1.Models.Agence
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Agence</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Gestionnaire.NomUtilisateur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gestionnaire.NomUtilisateur)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddresseAgence)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddresseAgence)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lattitude)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lattitude)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Longitude)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Longitude)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NineaGestionnaire)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NineaGestionnaire)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RcmGestionnaire)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RcmGestionnaire)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdAgence }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

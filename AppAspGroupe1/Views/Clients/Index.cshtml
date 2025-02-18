@@ -1,0 +1,83 @@
+﻿@model PagedList.IPagedList<AppAspGroupe1.Models.Client>
+@using PagedList.Mvc
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm(("Index", "Clients", FormMethod.Get)))
+{
+    <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 30px;">
+        <div class="form-group" style="margin-bottom: 15px;">
+            @Html.Label("NomUtilisateur", htmlAttributes: new { @class = "control-label col-md-4", style = "color: #2196F3; font-weight: bold;" })
+            <div class="col-md-10">
+                @Html.TextBox("NomUtilisateur", ViewBag.NomUtilisateur as string, new { @class = "form-control", style = "border: 1px solid #ddd; border-radius: 4px; padding: 8px; width: 100%;" })
+            </div>
+        </div>
+
+        <div class="form-group" style="margin-bottom: 15px;">
+            @Html.Label("PrenomUtilisateur", htmlAttributes: new { @class = "control-label col-md-4", style = "color: #2196F3; font-weight: bold;" })
+            <div class="col-md-10">
+                @Html.TextBox("PrenomUtilisateur", ViewBag.PrenomUtilisateur as string, new { @class = "form-control", style = "border: 1px solid #ddd; border-radius: 4px; padding: 8px; width: 100%;" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Rechercher" class="btn btn-primary" style="background-color: #2196F3; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#1e88e5'" onmouseout="this.style.backgroundColor='#2196F3'" />
+            </div>
+        </div>
+    </div>
+}
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().NomUtilisateur)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().PrenomUtilisateur)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().EmailUtilisateur)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().TelUtilisateur)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().CniClient)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomUtilisateur)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrenomUtilisateur)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailUtilisateur)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelUtilisateur)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CniClient)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.IdUtilisateur }) |
+                @Html.ActionLink("Details", "Details", new { id = item.IdUtilisateur }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.IdUtilisateur })
+            </td>
+        </tr>
+    }
+
+</table>
