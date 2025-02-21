@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppAspGroupe1.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,6 +11,8 @@ namespace AppAspGroupe1.Controllers
     {
         public ActionResult Index()
         {
+            Utils.WriteLogSystem("Juste un test", "HomeController-Index");
+            this.Flash("Bienvenue :)", Flashlevel.Info);
             return View();
         }
 

@@ -25,6 +25,7 @@ namespace AppAspGroupe1.Models
         public DbSet<Annonce> annonces { get; set; }
 
         public DbSet<Employee> employees { get; set; }
+        public DbSet<Td_Erreur> td_Erreurs { get; set; }
 
         
 

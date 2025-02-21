@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\app_start\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\app_start\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\controllers\\annoncescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\controllers\\annoncescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\models\\annonce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\annonce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\models\\td_erreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\td_erreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\app_start\\gmailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\app_start\\gmailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\models\\bdagencevoyagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\bdagencevoyagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\views\\shared\\_flash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\views\\shared\\_flash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\app_start\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\app_start\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,12 +75,8 @@
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\scripts\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|c:\\users\\khadi\\source\\repos\\asp.net-app-projet-master1-main\\appaspgroupe1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\views\\gestionnaires\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -83,10 +123,6 @@
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\gestionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\models\\bdagencevoyagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\bdagencevoyagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,20 +143,12 @@
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\models\\annonce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\annonce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\models\\chauffeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\models\\chauffeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\appaspgroupe1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6D39B5AC-850C-4C83-8800-9EDDCDB79A28}|AppAspGroupe1\\AppAspGroupe1.csproj|solutionrelative:appaspgroupe1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,46 +186,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Index.cshtml",
-              "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Agences\\Index.cshtml",
-              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Index.cshtml",
-              "RelativeToolTip": "AppAspGroupe1\\Views\\Agences\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAACEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T12:36:42.631Z",
+              "DocumentIndex": 1,
+              "Title": "AnnoncesController.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\AnnoncesController.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\AnnoncesController.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\AnnoncesController.cs",
+              "RelativeToolTip": "AppAspGroupe1\\Controllers\\AnnoncesController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:01:36.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AgencesController.cs",
-              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\AgencesController.cs",
-              "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\AgencesController.cs",
-              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\AgencesController.cs",
-              "RelativeToolTip": "AppAspGroupe1\\Controllers\\AgencesController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAMAAAA",
+              "DocumentIndex": 4,
+              "Title": "Td_Erreur.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Td_Erreur.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Td_Erreur.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Td_Erreur.cs",
+              "RelativeToolTip": "AppAspGroupe1\\Models\\Td_Erreur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T12:24:18.394Z",
+              "WhenOpened": "2025-02-21T11:44:36.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Create.cshtml",
-              "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Agences\\Create.cshtml",
-              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Create.cshtml",
-              "RelativeToolTip": "AppAspGroupe1\\Views\\Agences\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Title": "Gmailer.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\App_Start\\Gmailer.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\App_Start\\Gmailer.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\App_Start\\Gmailer.cs",
+              "RelativeToolTip": "AppAspGroupe1\\App_Start\\Gmailer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwGYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:40:53.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\App_Start\\Utils.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\App_Start\\Utils.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\App_Start\\Utils.cs",
+              "RelativeToolTip": "AppAspGroupe1\\App_Start\\Utils.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:39:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Flash.cshtml",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Shared\\_Flash.cshtml",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Shared\\_Flash.cshtml",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Shared\\_Flash.cshtml",
+              "RelativeToolTip": "AppAspGroupe1\\Views\\Shared\\_Flash.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T19:53:26.094Z",
+              "WhenOpened": "2025-02-21T11:06:03.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\App_Start\\Helper.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\App_Start\\Helper.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\App_Start\\Helper.cs",
+              "RelativeToolTip": "AppAspGroupe1\\App_Start\\Helper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:03:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppAspGroupe1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:02:02.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Annonce.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Annonce.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Annonce.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Annonce.cs",
+              "RelativeToolTip": "AppAspGroupe1\\Models\\Annonce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:41:44.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Agence.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Agence.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Agence.cs",
@@ -205,12 +298,36 @@
               "RelativeToolTip": "AppAspGroupe1\\Models\\Agence.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:34:05.288Z",
+              "WhenOpened": "2025-02-07T19:34:05.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BdAgenceVoyageContext.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
+              "RelativeToolTip": "AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:10:13.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Agences\\Create.cshtml",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Create.cshtml",
+              "RelativeToolTip": "AppAspGroupe1\\Views\\Agences\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T19:53:26.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Employee.cs",
@@ -218,12 +335,11 @@
               "RelativeToolTip": "AppAspGroupe1\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:01:24.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T20:01:24.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Employee\\index.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Employee\\index.cshtml",
@@ -231,25 +347,73 @@
               "RelativeToolTip": "AppAspGroupe1\\Views\\Employee\\index.cshtml",
               "ViewState": "AQIAAI4AAAAAAAAAAAAwwKsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T14:58:17.617Z",
+              "WhenOpened": "2025-02-08T14:58:17.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAOIBAAAAAAAAAAAAAPwBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T10:08:46.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "AgencesController.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\AgencesController.cs",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\AgencesController.cs",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\AgencesController.cs",
+              "RelativeToolTip": "AppAspGroupe1\\Controllers\\AgencesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:24:18.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "AppAspGroupe1\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCwAAAAMAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:16:39.307Z",
+              "WhenOpened": "2025-02-07T20:16:39.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Web.config",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Web.config",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Web.config",
+              "RelativeToolTip": "AppAspGroupe1\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-25T12:05:54.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Agences\\Index.cshtml",
+              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Agences\\Index.cshtml",
+              "RelativeToolTip": "AppAspGroupe1\\Views\\Agences\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T12:36:42.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Gestionnaires\\Index.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Gestionnaires\\Index.cshtml",
@@ -261,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Gestionnaires\\Create.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Gestionnaires\\Create.cshtml",
@@ -273,19 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AppAspGroupe1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABQBAAAAAAAAAAAAACgBAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T10:08:46.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "employee.js",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Scripts\\employee.js",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Scripts\\employee.js",
@@ -293,12 +445,11 @@
               "RelativeToolTip": "AppAspGroupe1\\Scripts\\employee.js",
               "ViewState": "AQIAACsAAAAAAAAAAAAmwOkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-08T14:54:24.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T14:54:24.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Migrations\\Configuration.cs",
@@ -310,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Client.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Client.cs",
@@ -322,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\App_Start\\BundleConfig.cs",
@@ -334,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "Gestionnaire.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Gestionnaire.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Gestionnaire.cs",
@@ -346,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Admin.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Admin.cs",
@@ -358,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Clients\\Index.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Clients\\Index.cshtml",
@@ -370,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "AdminsController.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\AdminsController.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\AdminsController.cs",
@@ -382,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Admins\\Index.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Admins\\Index.cshtml",
@@ -394,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "GestionnairesController.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\GestionnairesController.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\GestionnairesController.cs",
@@ -406,19 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BdAgenceVoyageContext.cs",
-              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
-              "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
-              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
-              "RelativeToolTip": "AppAspGroupe1\\Models\\BdAgenceVoyageContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:10:13.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\ClientsController.cs",
@@ -430,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Clients\\Create.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Clients\\Create.cshtml",
@@ -442,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Gestionnaires\\Delete.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Gestionnaires\\Delete.cshtml",
@@ -454,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Views\\Gestionnaires\\Details.cshtml",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Views\\Gestionnaires\\Details.cshtml",
@@ -466,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "Utilisateur.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Utilisateur.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Utilisateur.cs",
@@ -478,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Chauffeur.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Chauffeur.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Chauffeur.cs",
@@ -490,19 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Annonce.cs",
-              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Annonce.cs",
-              "RelativeDocumentMoniker": "AppAspGroupe1\\Models\\Annonce.cs",
-              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Models\\Annonce.cs",
-              "RelativeToolTip": "AppAspGroupe1\\Models\\Annonce.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:41:44.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "UtilisateursController.cs",
               "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Controllers\\UtilisateursController.cs",
               "RelativeDocumentMoniker": "AppAspGroupe1\\Controllers\\UtilisateursController.cs",
@@ -511,19 +638,6 @@
               "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T13:07:56.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Web.config",
-              "RelativeDocumentMoniker": "AppAspGroupe1\\Web.config",
-              "ToolTip": "C:\\Users\\khadi\\source\\repos\\asp.net-App-projet-master1-main\\AppAspGroupe1\\Web.config",
-              "RelativeToolTip": "AppAspGroupe1\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-25T12:05:54.371Z",
-              "EditorCaption": ""
             }
           ]
         }

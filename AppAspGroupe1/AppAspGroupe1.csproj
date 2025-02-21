@@ -224,12 +224,16 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\Gmailer.cs" />
+    <Compile Include="App_Start\Helper.cs" />
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="App_Start\Utils.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AdminsController.cs" />
     <Compile Include="Controllers\AgencesController.cs" />
+    <Compile Include="Controllers\AnnoncesController.cs" />
     <Compile Include="Controllers\ClientsController.cs" />
     <Compile Include="Controllers\EmployeeController.cs" />
     <Compile Include="Controllers\GestionnairesController.cs" />
@@ -254,6 +258,7 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Offre.cs" />
     <Compile Include="Models\Reservation.cs" />
+    <Compile Include="Models\Td_Erreur.cs" />
     <Compile Include="Models\TypeFlotte.cs" />
     <Compile Include="Models\Utilisateur.cs" />
     <Compile Include="Models\Voyage.cs" />
@@ -766,6 +771,12 @@
     <Content Include="Views\Gestionnaires\Edit.cshtml" />
     <Content Include="Views\Gestionnaires\Index.cshtml" />
     <Content Include="Views\Employee\index.cshtml" />
+    <Content Include="Views\Shared\_Flash.cshtml" />
+    <Content Include="Views\Annonces\Create.cshtml" />
+    <Content Include="Views\Annonces\Delete.cshtml" />
+    <Content Include="Views\Annonces\Details.cshtml" />
+    <Content Include="Views\Annonces\Edit.cshtml" />
+    <Content Include="Views\Annonces\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
